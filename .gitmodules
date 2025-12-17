@@ -1,0 +1,8 @@
+[submodule "microsservices/moderation-service"]
+	path = microsservices/moderation-service
+	url = https://github.com/brenopedro/moderation-service.git
+	branch = main
+[submodule "microsservices/comment-service"]
+	path = microsservices/comment-service
+	url = https://github.com/brenopedro/comment-service.git
+	branch = main
